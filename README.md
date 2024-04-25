@@ -41,3 +41,4 @@ Template Controller at `\app\Controller\Home.php`
 | Nearby Section       | Show nearby search and nearby result. Hide object list    |
 | Direction Section    | Show table for route steps                                |
 | Profile              | Section for Profile: `Manage`, `Update`, `ChangePassword` |
+# desasumpumodul7
